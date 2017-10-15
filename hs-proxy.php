@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Cyzerg HS Proxy
+ * Plugin Name:  HS ContactForm7 Proxy
  * Plugin URI: http://cyzerg.com
- * Description: This plugin integrates Contact forms with HubSpot API
+ * Description: This plugin integrates ContactForm7 with HubSpot Form API
  * Version: 1.0.0
  * Author: Muhammad Umair
  * Author URI: http://www.cyzerg.com
