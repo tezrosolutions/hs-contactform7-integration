@@ -50,7 +50,7 @@ function _post_data_to_hs($data, $endpoint) {
 }
 
 
-function cyzerg_synchronize_hs ($wpcf7_data) {
+function ts_synchronize_hs ($wpcf7_data) {
 	$submission = WPCF7_Submission::get_instance();
 	
 
@@ -111,4 +111,4 @@ function cyzerg_synchronize_hs ($wpcf7_data) {
     $wpcf7_data->skip_mail = true;
 }
 
-add_action("wpcf7_mail_sent", "cyzerg_synchronize_hs");	
+add_action("wpcf7_mail_sent", "ts_synchronize_hs");	
