@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:  HS ContactForm7 Proxy
- * Plugin URI: http://cyzerg.com
+ * Plugin URI: https://github.com/tezrosolutions/hs-contactform7-integration
  * Description: This plugin integrates ContactForm7 with HubSpot Form API
  * Version: 1.0.0
  * Author: Muhammad Umair
- * Author URI: http://www.cyzerg.com
+ * Author URI: https://github.com/tezrosolutions/
  */
 define('HS_PORTAL', 'HS Portal ID');
 define('SUBSCRIPTION_FORM_HS_GUID', 'HS Form ID');
